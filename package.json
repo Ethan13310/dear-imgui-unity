@@ -13,9 +13,6 @@
     "name": "Real Games",
     "url": "https://realgames.co"
   },
-  "dependencies": {
-    "com.unity.inputsystem": "1.0.2"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Ethan13310/dear-imgui-unity",
